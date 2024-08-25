@@ -9,3 +9,5 @@
 
 ## Report
 [다음 파일](https://github.com/kms7530/EssayGPT/blob/main/Report.pdf)을 참조해 주시기 바랍니다. 
+
+*본 프로젝트는 2023년 2학기에 개설된 딥러닝 과목의 과제에 대한 결과물입니다. 
